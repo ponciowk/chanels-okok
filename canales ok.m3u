@@ -163,7 +163,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/10-20-hls/live.m3u8?
 #EXTINF:-1 ,willax tv hd
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454302715&_cdn_timestamp=1670000844&_cdn_token=07c13e65cad6a975b010490df9987b1e347e4330
 
-#EXTINF:-1 ,LATINA TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png"
+#EXTINF:-1 ,LATINA TV 
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=453518603&_cdn_timestamp=1669951656&_cdn_token=7e8add84cce925b0e3537d0c42792c168c898725
 
 #EXTINF:-1 ,AMERICA TV
