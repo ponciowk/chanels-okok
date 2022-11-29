@@ -1,0 +1,289 @@
+#EXTM3U
+ 
+
+#EXTINF:-1 ,tv peru hd
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="Peru",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="General",BHTV (720p) [Not 24/7]
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/BHTV/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DBHTV_stream_v0&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454356707&_cdn_timestamp=1670003094&_cdn_token=3570f16a4212de0a8c0540877ac631131d43a204
+
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-logo="https://i.imgur.com/TxEBT6I.png" group-title="General",CharapaTV (Pucallpa) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8168/index.m3u8
+
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/fLk6TPY.png" group-title="News",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+ Noticias (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="General",Best Cable Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+
+#EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="General",Cajamarca TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/DI7ZTi9.png" group-title="General",CreoTV (Cajamarca) (720p) [Not 24/7]
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p) [Not 24/7]
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png" group-title="General",Doble C Televisión (Mazamari) [Not 24/7]
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="News",FuegoTV (Lima) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (Peru) (1080p) [Not 24/7]
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" group-title="Undefined",Galicia TV América (720p)
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Undefined",Genios TV (Moyobamba) (720p) [Not 24/7]
+https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/Qusd5mT.png" group-title="Undefined",La Ribereña (Pucallpa) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/xNjYZoA.png" group-title="General",LotPlus TV (Chiclayo) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="General",Master TV (Tarapoto) (480p) [Not 24/7]
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png" group-title="General",MaticesTV (Cañete) (720p) [Not 24/7]
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-logo="https://i.imgur.com/eLP2IH5.png" group-title="Music",Miel TV (Satipo) [Not 24/7]
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+#EXTINF:-1 tvg-id="MilleniumTV.pe" tvg-logo="https://i.imgur.com/zYpMHhQ.png" group-title="General",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Undefined",Millenium 109 FM (Lamas) (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="MitosTV.pe" tvg-logo="https://i.imgur.com/w4ISMBI.png" group-title="Undefined",MitosTV (Mitos de la Selva | Pucallpa) (480p) [Not 24/7]
+https://inliveserver.com:1936/19018/19018/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKTeVe.pe" tvg-logo="https://i.imgur.com/rk0bwcz.png" group-title="General",OK TeVe (Yurimaguas) (720p) [Not 24/7]
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="News",PBO Digital (720p) [Not 24/7]
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PBO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453616667&_cdn_timestamp=1669955418&_cdn_token=8f181a2c25ed029c5899a8d9e41a65999f323ff9
+
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="General",Perú Channel
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeruvianRadioTV.pe" tvg-logo="https://i.imgur.com/0GVaVad.png" group-title="Undefined",PeruvianRadio TV [Not 24/7]
+https://stmv.panel.grupolimalive.com/peruvian/peruvian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Movies",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Music",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-logo="https://i.imgur.com/0aebQsZ.png" group-title="Undefined",RN Televisión (Yurimaguas) (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png" group-title="News",RSelvaTV (Tarapoto) (720p) [Not 24/7]
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="News",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png" group-title="News",RTV Total (Yurimaguas) (480p) [Not 24/7]
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="General",Telecolor (Yurimaguas) (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://i.imgur.com/bbhgIN4.png" group-title="Undefined",Telesur (Ilo) (720p) [Not 24/7]
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+
+#EXTINF:-1 ,history chanel 
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453528995&_cdn_timestamp=1669952061&_cdn_token=c4d8538ae3c7847c0bda54343a09fd4d83775301
+
+#EXTINF:-1 ,willax tv hd
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454302715&_cdn_timestamp=1670000844&_cdn_token=07c13e65cad6a975b010490df9987b1e347e4330
+
+#EXTINF:-1 ,LATINA TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png"
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=453518603&_cdn_timestamp=1669951656&_cdn_token=7e8add84cce925b0e3537d0c42792c168c898725
+
+#EXTINF:-1 ,AMERICA TV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453526139&_cdn_timestamp=1669951945&_cdn_token=12bca879524f360f2445e8db1bbfc53c58167052
+
+#EXTINF:-1 ,ANIMAL PLANET 
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453531555&_cdn_timestamp=1669952157&_cdn_token=e3dbf37d3448c5d8ba528823adb511dd9c4bad37
+
+#EXTINF:-1 ,SONY
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453625923&_cdn_timestamp=1669955711&_cdn_token=3913a0858b6a184a1d58d3d29f4f9e490722f058
+
+#EXTINF:-1 ,DISCOVERY CHANEL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453628595&_cdn_timestamp=1669955827&_cdn_token=55bc8bfeb80258d8d998faf8b510d8a60a9f1fc9
+
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453631315&_cdn_timestamp=1669955945&_cdn_token=d8f38336d90f169ec28796ceb7cb3ebc5066bae1
+
+#EXTINF:-1 ,PASIONES
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PASIONES/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453633699&_cdn_timestamp=1669956085&_cdn_token=9331183b3342e981011c4f98e4fc2fccd254a6c1
+
+#EXTINF:-1 ,HYH
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453636651&_cdn_timestamp=1669956243&_cdn_token=8bf17d3a07db289f2f10f723e7c0b5391aa642fd
+
+#EXTINF:-1 ,ESPN
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453639219&_cdn_timestamp=1669956372&_cdn_token=f44c9c341cc81f65ffdbf9d428776424c0417b67
+
+#EXTINF:-1 ,ESPN2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453640795&_cdn_timestamp=1669956453&_cdn_token=9e784b41713634250f5b50bbbd9f9fa0706601b3
+
+#EXTINF:-1 ,FOX SPORT2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453642107&_cdn_timestamp=1669956516&_cdn_token=20895e3274a9aa406ace87ffda7025eadaa4f7b5
+
+#EXTINF:-1 ,FOX SPORT3
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453646107&_cdn_timestamp=1669956680&_cdn_token=ca955bc7e165f5e61ed708cd3c6af22f75301190
+
+#EXTINF:-1 ,ESPN4
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453650059&_cdn_timestamp=1669956844&_cdn_token=53fdf4c59290f27576eb910151af7cad687f7508
+
+#EXTINF:-1 ,ZOO MOO
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453654203&_cdn_timestamp=1669957047&_cdn_token=db08af21feede77bdcf07680dc3e5d31ef04df48
+
+#EXTINF:-1 ,AXN
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453668379&_cdn_timestamp=1669957848&_cdn_token=8b13e591ac72f7f242de830a8fcbee3aab4d9415
+
+#EXTINF:-1 ,FX
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453677547&_cdn_timestamp=1669958434&_cdn_token=905b5d4c34ae9a35beeff1474914fae8214740d0
+
+#EXTINF:-1 ,UNIVERSAL 
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453685323&_cdn_timestamp=1669959087&_cdn_token=9220d4fc855bc46eee0544c03406ee984e5d02d3
+
+#EXTINF:-1 ,WARNER CHA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWARNERCHANNEL_stream_2g&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453686355&_cdn_timestamp=1669959136&_cdn_token=0a7fbb9cde4c185d20af74d11125e346391a9dce
+
+#EXTINF:-1 ,STAR CHANEL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453687603&_cdn_timestamp=1669959226&_cdn_token=2ec4a5406c212959e17e6501a3a746d883355b9d
+
+#EXTINF:-1 ,LIFE TIME
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454035267&_cdn_timestamp=1669990968&_cdn_token=1cf0e27d6e424c4037e2c8f3c5bdaa5093719d02
+
+#EXTINF:-1 ,PARAMOUNT CHANEL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454036899&_cdn_timestamp=1669991056&_cdn_token=d3bd1637c4b51e6c13bf2dc8b5d16a67efae2499
+
+#EXTINF:-1 ,CLOVER CHANEL
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CloverCh/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCloverCh_stream_2e&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454038595&_cdn_timestamp=1669991125&_cdn_token=fb73ee1eaccd8ca44ca07666f826be9d22aea353
+
+#EXTINF:-1 ,CINECANAL
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454040403&_cdn_timestamp=1669991196&_cdn_token=5e2d0c72a31938ce0157621ea178fce5c55bf1cc
+
+#EXTINF:-1 ,FOOD
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454043019&_cdn_timestamp=1669991285&_cdn_token=be766079130d2e901e21a02ac6a8c8f91b827da9
+
+#EXTINF:-1 ,MTV
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454045227&_cdn_timestamp=1669991369&_cdn_token=bd2891a30414a0d8cdff29cebf573488f9c08d2e
+
+#EXTINF:-1 ,DISNEY CHANEL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454049275&_cdn_timestamp=1669991536&_cdn_token=55ae2cf16b5d00abe80237aff3a7c4bbde89d5df
+
+#EXTINF:-1 ,DISCOVERY KIDS
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454050451&_cdn_timestamp=1669991582&_cdn_token=29da0a456cef79dd3c00e7ec57645486519c0ef1
+
+#EXTINF:-1 ,DISCOVERY JUNIOR
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454052683&_cdn_timestamp=1669991648&_cdn_token=8f812478b35d7b82314ac95fcd38deb22275bd3a
+
+#EXTINF:-1 ,ESTUDIO UNIVERSAL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454256691&_cdn_timestamp=1669998991&_cdn_token=8f0356c6f6844fdca82cff53bb0b86e926fb838f
+
+#EXTINF:-1 ,DISCOVERY ID
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454261003&_cdn_timestamp=1669999185&_cdn_token=779022141c65550d41ae7409b24e0f0d554ffe6d
+
+#EXTINF:-1 , SY FY
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454262019&_cdn_timestamp=1669999237&_cdn_token=9b8e6d4ee689e52451dd902857da2c5f303a622e
+
+#EXTINF:-1 ,AMC
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=454264267&_cdn_timestamp=1669999344&_cdn_token=38cb4efab7e5d3cf9f771185f58d01215fbfed44
+
+#EXTINF:-1 ,DREAMWORKS
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454269123&_cdn_timestamp=1669999529&_cdn_token=dcf3991762ac2166874b79ae1e5607d4ac4e6eb9
+
+#EXTINF:-1 ,NICK JR
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKJR/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454274171&_cdn_timestamp=1669999750&_cdn_token=830684319568c82eab13eeacf8dec51302d2bd96
+
+#EXTINF:-1 ,HGTV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454275067&_cdn_timestamp=1669999793&_cdn_token=9583917547f1a7400dfabd020bc5a30cad98fcbe
+
+#EXTINF:-1 ,TELEMUNDO
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454276419&_cdn_timestamp=1669999843&_cdn_token=616c79df118e1536d242e3666ce000310bd7bf97
+
+#EXTINF:-1 ,KANAL D DRAMA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/KANALD/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454278715&_cdn_timestamp=1669999931&_cdn_token=1b51dc0f854c03edf8e3a5359bc5bca03ca932c3
+
+#EXTINF:-1 ,LOVE NATURE
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLOVENATURE_stream_0s&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454286339&_cdn_timestamp=1670000173&_cdn_token=bbe50a0bdc15a633319d07b3bc561dba6072ec03
+
+#EXTINF:-1 ,I
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454298363&_cdn_timestamp=1670000662&_cdn_token=8840cf7caade184b83c271769adf581bedfd8588
+
+#EXTINF:-1 ,GLOBAL
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454301659&_cdn_timestamp=1670000800&_cdn_token=5b9cd71bebfd80eb6557ff2fc59a841e5bf6d844
+
+#EXTINF:-1 ,directv sport
+https://t8.switchcast2.com:999/hls/directvlive.m3u8?md5=pbTu4CB1_jfZBaCUO7ch7Q&expires=1669576697
+
+
