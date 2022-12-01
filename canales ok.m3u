@@ -161,19 +161,19 @@ http://45.5.8.78:8000/play/a00i
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453528995&_cdn_timestamp=1669952061&_cdn_token=c4d8538ae3c7847c0bda54343a09fd4d83775301
 
 #EXTINF:-1 ,willax tv hd
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/WILLAX/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454302715&_cdn_timestamp=1670000844&_cdn_token=07c13e65cad6a975b010490df9987b1e347e4330
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=462139803&_cdn_timestamp=1670345983&_cdn_token=7a8137527687fb2878193a90a195301221124807
 
 #EXTINF:-1 ,LATINA TV 
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LATINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=462113299&_cdn_timestamp=1670344512&_cdn_token=ab64ea0f60d70ca9d82fb3763bba830d28daf851
 
 #EXTINF:-1 ,AMERICA TV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453526139&_cdn_timestamp=1669951945&_cdn_token=12bca879524f360f2445e8db1bbfc53c58167052
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMERIK/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=462158083&_cdn_timestamp=1670347048&_cdn_token=2377101c88774a84ed09d1deabf8540978a7fe78
 
 #EXTINF:-1 ,ANIMAL PLANET 
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453531555&_cdn_timestamp=1669952157&_cdn_token=e3dbf37d3448c5d8ba528823adb511dd9c4bad37
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=462142499&_cdn_timestamp=1670346102&_cdn_token=673e52c20e6764209b80f5de67b5d6503acd141c
 
 #EXTINF:-1 ,SONY
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SONY/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453625923&_cdn_timestamp=1669955711&_cdn_token=3913a0858b6a184a1d58d3d29f4f9e490722f058
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONY/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=462144483&_cdn_timestamp=1670346209&_cdn_token=01da2508966305644fb5f45a46963da07b3861ca
 
 #EXTINF:-1 ,DISCOVERY CHANEL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453628595&_cdn_timestamp=1669955827&_cdn_token=55bc8bfeb80258d8d998faf8b510d8a60a9f1fc9
@@ -206,10 +206,10 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-20-hls/live.m3u8
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ZOOMOO/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DZOOMOO_stream_sr&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453654203&_cdn_timestamp=1669957047&_cdn_token=db08af21feede77bdcf07680dc3e5d31ef04df48
 
 #EXTINF:-1 ,AXN
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453668379&_cdn_timestamp=1669957848&_cdn_token=8b13e591ac72f7f242de830a8fcbee3aab4d9415
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=462152819&_cdn_timestamp=1670346746&_cdn_token=91275c1fb8284ef3ed8b0022814de03d1a63b9e0
 
 #EXTINF:-1 ,FX
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FX/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453677547&_cdn_timestamp=1669958434&_cdn_token=905b5d4c34ae9a35beeff1474914fae8214740d0
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=462150323&_cdn_timestamp=1670346604&_cdn_token=4a92143edd996a1f85a74c666ef83a47f760077f
 
 #EXTINF:-1 ,UNIVERSAL 
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=453685323&_cdn_timestamp=1669959087&_cdn_token=9220d4fc855bc46eee0544c03406ee984e5d02d3
@@ -242,16 +242,16 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/MTV/10-20-hls/live.m3u8?_cdn_
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454049275&_cdn_timestamp=1669991536&_cdn_token=55ae2cf16b5d00abe80237aff3a7c4bbde89d5df
 
 #EXTINF:-1 ,DISCOVERY KIDS
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454050451&_cdn_timestamp=1669991582&_cdn_token=29da0a456cef79dd3c00e7ec57645486519c0ef1
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCKIDS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCKIDS_stream_fa&_cdn_session=462153795&_cdn_timestamp=1670346804&_cdn_token=98550590028d4df586b8824a4bd7cf5c8c66de4b
 
 #EXTINF:-1 ,DISCOVERY JUNIOR
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454052683&_cdn_timestamp=1669991648&_cdn_token=8f812478b35d7b82314ac95fcd38deb22275bd3a
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=462155955&_cdn_timestamp=1670346901&_cdn_token=bc51ea6aaf86b3c02c233ef56ba1b8d2ed784bd4
 
 #EXTINF:-1 ,ESTUDIO UNIVERSAL
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454256691&_cdn_timestamp=1669998991&_cdn_token=8f0356c6f6844fdca82cff53bb0b86e926fb838f
 
-#EXTINF:-1 ,DISCOVERY ID
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-20-hls-vtt/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454261003&_cdn_timestamp=1669999185&_cdn_token=779022141c65550d41ae7409b24e0f0d554ffe6d
+#EXTINF:-1 ,DISCOVERY Id
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=462157107&_cdn_timestamp=1670346981&_cdn_token=5a6c60a3d9efc8767d0f6b899683eed1781c72b7
 
 #EXTINF:-1 , SY FY
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/SYFY/10-20-hls/live.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSYFY_stream_gb&_cdn_meta=userID%3D1686172728%2CdeviceID%3D138284687&_cdn_session=454262019&_cdn_timestamp=1669999237&_cdn_token=9b8e6d4ee689e52451dd902857da2c5f303a622e
